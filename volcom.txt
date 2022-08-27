@@ -1,0 +1,10 @@
+pslist
+pstree
+psscan
+dlllist
+privs
+modules
+driverscan
+connscan
+hivescan
+
